@@ -2,7 +2,7 @@
 
 ## Deliverable 1
 ## Used amazon file: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
-## Loaded the data into Postgres Database using Colab Notebooks
+## Loaded the data into Postgres Database using Colab Notebooks, using Amazon_Reviews_ETL.ipynb
 ## Here are the table counts:
 <img width="960" alt="2022-05-29 (5)" src="https://user-images.githubusercontent.com/95976771/170899985-9a8ece6b-1a5a-4466-a986-8939f1395e2e.png">
 
